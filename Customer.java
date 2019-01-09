@@ -1,5 +1,4 @@
-// Nick Korintus
-// Lab Assignment 9
+// Author: Nick Korintus
 
 /**
 	This class holds data about a customer
