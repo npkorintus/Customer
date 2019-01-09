@@ -1,6 +1,4 @@
-// Nick Korintus
-// Lab Assignment 9
-
+// Author: Nick Korintus
 
 import java.util.Scanner;
 
